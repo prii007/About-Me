@@ -1,7 +1,7 @@
 # Hi, I'm Priyanka Malhotra! 👋
 
 🛰️ **I’m currently working on:**
-- Optimizing Google Ads campaigns for Plushy Host, improving ROI through data-driven analysis.
+- Optimizing Google Ads campaigns for an AirBnb co host company and improving ROI through data-driven analysis.
 
 🌱 **I’m currently learning:**
 - Generative AI, neural networks, and automation with Python, Selenium, and MongoDB.
