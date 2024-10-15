@@ -28,6 +28,4 @@
 - **Tools:** Tableau, MongoDB, Selenium, Jupyter Notebooks
 - **Areas of Expertise:** Data Analytics, Fraud Detection, Business Process Optimization, Google Ads Optimization
 
-## GitHub Stats:
-![Priyanka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true)
 
